@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6384dc8-ab51-4113-a5e8-7e5beda54999" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_01_Gasto_Total_Trimestre/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_01_Gasto_Total_Trimestre/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_01_Gasto_Total_Trimestre/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_01_Gasto_Total_Trimestre/Exercicio_01_Gasto_Total_Trimestre.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/Exercicio_02_Numero_da_Sorte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_01/Exercicio_02_Numero_da_Sorte/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_001_ENUM/Exercicio_001_ENUM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/Exercicio_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_02/Exercicio_02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_01_Votacao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_01_Votacao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_01_Votacao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_01_Votacao/Questao_01_Votacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/Questao_02_Operador_Ternario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/out/production/Questao_02_Operador_Ternario/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_02_Operador_Ternario/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/Questao_03_Maquina_Bebidas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/out/production/Questao_03_Maquina_Bebidas/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Questao_03_Maquina_Bebidas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questao_04_Maquina_Bebidas_if-else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Questao_04_Maquina_Bebidas_if-else/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hdx7VkRUonCAOAEfwa5aVpn7Z0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6384dc8-ab51-4113-a5e8-7e5beda54999" name="Changes" comment="" />
+      <created>1668628595899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668628595899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
