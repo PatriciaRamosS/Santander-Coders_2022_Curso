@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d99caa0-b4f3-4e0f-9cbd-36f69b494048" name="Changes" comment="">
+    <list default="true" id="3b445d2d-b5ad-4aa9-9201-dbd342f50b81" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_01/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_01/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_01/.idea/vcs.xml" afterDir="false" />
@@ -17,20 +17,18 @@
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_02/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_02/Paradigma_Programacao_02.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Paradigma_Programacao_02/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/Tipoos_De_Variaveis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/out/production/Tipoos_De_Variaveis/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tipoos_De_Variaveis/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tipoos_De_Variaveis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Tipoos_De_Variaveis/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/Lista_Compras.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Aula_03/Questao_02_Operador_Ternario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula_03/Questao_02_Operador_Ternario/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Aula_03/Questao_02_Operador_Ternario/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula_03/Questao_02_Operador_Ternario/src/Main.java" afterDir="false" />
     </list>
@@ -45,8 +43,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HJgcQ8ywOzdvf4Sn34H0GnIiM3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2HwvU881BKXgf1Ttu33TXith2AA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,17 +56,18 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/patri/Documents/GitHub/Santander-Coders_2022_Curso/Aula_01/Exercicio_02_Numero_da_Sorte"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2d99caa0-b4f3-4e0f-9cbd-36f69b494048" name="Changes" comment="" />
-      <created>1668008680322</created>
+      <changelist id="3b445d2d-b5ad-4aa9-9201-dbd342f50b81" name="Changes" comment="" />
+      <created>1669208974159</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668008680322</updated>
+      <updated>1669208974159</updated>
     </task>
     <servers />
   </component>
@@ -80,5 +81,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

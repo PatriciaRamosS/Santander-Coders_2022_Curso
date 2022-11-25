@@ -1,0 +1,22 @@
+1 - Entrar na parta em que o arquivo será criado.
+
+2 - Comando para criar o arquivo
+
+	-> copy con Hello_World.java
+
+3 - Entrar com o algoritmo desejado.
+
+
+4  - Caso o algoritmo esteja errado para corrigir basta digitar:
+
+	-> notepad Hello_World.java
+
+5 - Inserir o comando dir  e verificar qual o nome do arquivo criado
+que seja .class
+
+	arquivo criado  pelo sistema = HelloWorld.class
+
+6 - Executar o comando java com o nome do arquivo .class
+sem o .class
+
+	-> java HelloWorld

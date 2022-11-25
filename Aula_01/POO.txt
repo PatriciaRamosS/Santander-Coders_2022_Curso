@@ -1,0 +1,7 @@
+A classe é a receita de bolo.
+
+E o objeto é o bolo em si.
+
+Então a partir da classe, que é a receita de bolo é possível criar vário bolos.
+
+A partir da classe é possível criar vários objetos do tipo da classe.

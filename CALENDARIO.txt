@@ -1,0 +1,9 @@
+07/11 - Introdução do Java, Paradigma de programação, Variáveis e Tipos, Object, Casting, Saída.
+09/11 - Wrappers, Manipulação de Strings. Entrada.
+11/11 - Operadores e estruturas de seleção (if,else,else if, switch, switch expression).
+14/11 - Função, Array, Matrizes.
+16/11 - Estrutura de repetição (for, while, do while, recursão,forEach).
+18/11 - Collections (List,Set,Map).
+21/11 - Tratamento de Erros e Manipulação de Arquivo.
+23/11 - Projeto (CRUD de produtos salvando em arquivo) e Versionamento de código.
+25/11 - Avaliação de Rúbrica. (editado)

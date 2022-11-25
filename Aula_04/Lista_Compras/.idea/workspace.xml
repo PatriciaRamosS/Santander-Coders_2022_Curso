@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e48994-abab-4e07-8237-6c08eb873875" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/Lista_Compras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_04/Lista_Compras/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="88c3b2cc-0834-4f85-a634-2a72b0c186ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista_Compras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HdqrMqpI1S5kopNQry16lsdvIU" />
+  <component name="ProjectId" id="2HrRocaLp81uSZsexcv1nttCYoa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/patri/Downloads/a3faa7dc6b03ec282a93125a03002994-b6d1f84d80c6e38fbf2155b01b9d22ae0649b881/a3faa7dc6b03ec282a93125a03002994-b6d1f84d80c6e38fbf2155b01b9d22ae0649b881&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b1e48994-abab-4e07-8237-6c08eb873875" name="Changes" comment="" />
-      <created>1668625507073</created>
+      <changelist id="88c3b2cc-0834-4f85-a634-2a72b0c186ab" name="Changes" comment="" />
+      <created>1669041393107</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668625507073</updated>
+      <updated>1669041393107</updated>
     </task>
     <servers />
   </component>
